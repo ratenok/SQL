@@ -270,7 +270,7 @@ select * from roles_employee;
 -- 11) Наполнить таблицу roles_employee 40 строками:
 
 insert into roles_employee (employee_id, role_id)
-        values (1, 7,2),
+                    values (7,2),
 			   (20,4),
 			   (3,9),
 			   (5,13),
